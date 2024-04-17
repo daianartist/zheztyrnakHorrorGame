@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{1A9B73CF-CBBF-C187-5EFE-7813DB745993}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/AI Navigation/1.1.5/Build And Connect NavMesh Surfaces/Scripts/DynamicNavMeshObject.cs">
+    <Files>
+      <File FileName="Assets/Textures/scene.mat" />
+      <File FileName="Assets/Scripts/PlayerMoving.cs" Line="101" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.probuilder@5.2.2/Content/Shader/StandardVertexColor.shader" />
+      <File FileName="Assets/Scripts/RaySystem.cs" Line="58" Column="14" />
+      <File FileName="Assets/Scripts/pismo.cs" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AIMonsteR.cs" />
+      <File FileName="Assets/Scripts/Door.cs" />
+      <File FileName="Assets/Scripts/footstepSound.cs" Line="5" Column="15" />
+      <File FileName="Assets/Scripts/TextTimer.cs" />
+      <File FileName="Assets/Scripts/steps.cs" Line="5" Column="15" />
+      <File FileName="Assets/Scripts/SpawnCount.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MonsterChase.cs" Line="22" Column="1" />
+      <File FileName="Assets/Samples/AI Navigation/1.1.5/Build And Connect NavMesh Surfaces/Scripts/DynamicNavMeshObject.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zheztyrnak" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="AI Navigation" expanded="True">
+                  <Node name="1.1.5" expanded="True">
+                    <Node name="Build And Connect NavMesh Surfaces" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="DynamicNavMeshObject.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="Textures" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6515ece6-a13f-4c1e-896d-d2137809fbe4" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
