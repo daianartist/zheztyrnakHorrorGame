@@ -32,34 +32,34 @@ public class MonsterAI : MonoBehaviour
         switch (raySystem.rune)
         {
             case 1:
-                ai.speed = 1.5f;
-                anim.speed = 0.2f;
-                break;
-            case 2:
-                ai.speed = 1.7f;
-                anim.speed = 0.4f;
-                break;
-            case 3:
                 ai.speed = 1.9f;
                 anim.speed = 0.6f;
                 break;
-            case 4:
+            case 2:
                 ai.speed = 2.5f;
                 anim.speed = 0.8f;
                 break;
-            case 5:
+            case 3:
                 ai.speed = 3f;
                 anim.speed = 1f;
                 break;
+            case 4:
+                ai.speed = 3.5f;
+                anim.speed = 1.2f;
+                break;
+            case 5:
+                ai.speed = 4f;
+                anim.speed = 1.4f;
+                break;
             default:
-                ai.speed = 1f;  // Базовая скорость, если рун меньше 1
-                anim.speed = 0.1f;
+                ai.speed = 1.7f;
+                anim.speed = 0.4f;
                 break;
         }
-        float distanceToPlayer = Vector3.Distance(transform.position, player.position);
-        if (distanceToPlayer < catchDistance)
-        {
-            player.GetComponent<JumpscareTrig>().TriggerJumpscare(); // Активируем jumpscare
-        }
+        //float distanceToPlayer = Vector3.Distance(transform.position, player.position);
+        //if (distanceToPlayer < catchDistance)
+        //{
+        //    player.GetComponent<JumpscareTrig>().TriggerJumpscare(); // Активируем jumpscare
+        //}
     }
 }

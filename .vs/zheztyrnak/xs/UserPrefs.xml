@@ -1,20 +1,25 @@
 ﻿<Properties StartupConfiguration="{1A9B73CF-CBBF-C187-5EFE-7813DB745993}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/AI Navigation/1.1.5/Build And Connect NavMesh Surfaces/Scripts/DynamicNavMeshObject.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="181a7cf8-ac86-4914-93dc-e95b43da314b" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/pismo.cs">
     <Files>
-      <File FileName="Assets/Textures/scene.mat" />
-      <File FileName="Assets/Scripts/PlayerMoving.cs" Line="101" Column="1" />
-      <File FileName="Library/PackageCache/com.unity.probuilder@5.2.2/Content/Shader/StandardVertexColor.shader" />
-      <File FileName="Assets/Scripts/RaySystem.cs" Line="58" Column="14" />
-      <File FileName="Assets/Scripts/pismo.cs" />
-      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/AIMonsteR.cs" />
-      <File FileName="Assets/Scripts/Door.cs" />
-      <File FileName="Assets/Scripts/footstepSound.cs" Line="5" Column="15" />
-      <File FileName="Assets/Scripts/TextTimer.cs" />
-      <File FileName="Assets/Scripts/steps.cs" Line="5" Column="15" />
+      <File FileName="../Downloads/JestyrnaqGame/Assets/scriptdel/BtnScript.cs" />
+      <File FileName="Assets/Scripts/RaySystem.cs" />
+      <File FileName="Assets/Scripts/MonsterChase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMoving.cs" Line="88" Column="43" />
+      <File FileName="Assets/Scripts/Spawner.cs" />
       <File FileName="Assets/Scripts/SpawnCount.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/MonsterChase.cs" Line="22" Column="1" />
-      <File FileName="Assets/Samples/AI Navigation/1.1.5/Build And Connect NavMesh Surfaces/Scripts/DynamicNavMeshObject.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/pismo.cs" Line="19" Column="146" />
+      <File FileName="Assets/Scripts/monsterAI.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Jumpscare.cs" Line="40" Column="1" />
+      <File FileName="Assets/scriptdel/settingscript.cs" Line="7" Column="1" />
+      <File FileName="Assets/scriptdel/BtnScript.cs" Line="23" Column="1" />
+      <File FileName="Assets/scriptdel/PauseMenu.cs" Line="43" Column="42" />
+      <File FileName="Assets/Scripts/footstepSound.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,26 +30,22 @@
                 <Node name="AI Navigation" expanded="True">
                   <Node name="1.1.5" expanded="True">
                     <Node name="Build And Connect NavMesh Surfaces" expanded="True">
-                      <Node name="Scripts" expanded="True">
-                        <Node name="DynamicNavMeshObject.cs" selected="True" />
-                      </Node>
+                      <Node name="Scripts" expanded="True" />
                     </Node>
                   </Node>
                 </Node>
               </Node>
+              <Node name="scriptdel" expanded="True" />
               <Node name="Scripts" expanded="True" />
-              <Node name="Textures" expanded="True" />
+              <Node name="Textures" expanded="True">
+                <Node name="Door Texture Pack" expanded="True" />
+              </Node>
             </Node>
+            <Node name="Packages" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6515ece6-a13f-4c1e-896d-d2137809fbe4" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

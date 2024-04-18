@@ -60,21 +60,25 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/scriptdel/BtnScript.cs" />
     <Compile Include="Assets/Scripts/MonsterChase.cs" />
     <Compile Include="Assets/Scripts/Spawner.cs" />
+    <Compile Include="Assets/scriptdel/NewBehaviourScript.cs" />
     <Compile Include="Assets/Scripts/pismo.cs" />
     <Compile Include="Assets/Scripts/monsterAI.cs" />
     <Compile Include="Assets/Scripts/AIMonsteR.cs" />
     <Compile Include="Assets/Scripts/footstepSound.cs" />
     <Compile Include="Assets/Scripts/Door.cs" />
     <Compile Include="Assets/Scripts/steps.cs" />
+    <Compile Include="Assets/scriptdel/settingscript.cs" />
     <Compile Include="Assets/GayPorn/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Scripts/CTI_CustomWind.cs" />
     <Compile Include="Assets/Scripts/SpawnCount.cs" />
     <Compile Include="Assets/Scripts/PlayerMoving.cs" />
-    <Compile Include="Assets/Scripts/jumpscareTrig.cs" />
     <Compile Include="Assets/Scripts/TextTimer.cs" />
+    <Compile Include="Assets/Scripts/Jumpscare.cs" />
     <Compile Include="Assets/GayPorn/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Scripts/CTI_Utils.cs" />
     <Compile Include="Assets/Scripts/RaySystem.cs" />
+    <Compile Include="Assets/scriptdel/PauseMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/GayPorn/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Shaders/CTI_LOD_Bark_Array_301.shader" />
@@ -89,6 +93,7 @@
     <None Include="Assets/GayPorn/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Resources/CTI_Internal-DeferredShading.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets/GayPorn/Forst/CTI Runtime Components/CTI Runtime Components BIRP/Shaders/Includes/CTI_BillboardVertex_301.cginc" />
+    <None Include="Assets/ImageResources/Room/Settings/Note.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
     <None Include="Assets/Textures/Door Texture Pack/Readme.txt" />
     <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
